@@ -500,9 +500,14 @@
   //#define DEFAULT_Kd 440
 
   // Duplicator 6
-  #define DEFAULT_Kp 9.12
-  #define DEFAULT_Ki 0.41
-  #define DEFAULT_Kd 50.98
+  //#define DEFAULT_Kp 9.12
+  //#define DEFAULT_Ki 0.41
+  //#define DEFAULT_Kd 50.98
+
+  // From Neil - Wanhao D6
+  #define DEFAULT_Kp 20.0
+  #define DEFAULT_Ki 1.08
+  #define DEFAULT_Kd 124
 
 #endif // PIDTEMP
 
