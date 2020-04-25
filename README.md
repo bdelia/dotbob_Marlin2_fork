@@ -1,4 +1,4 @@
-##This is a configuration of Marlin, based on [dotbob's work](https://github.com/dot-bob/Marlin-Duplicator-6), for a stock Wanhao Duplicator 6 running a BTT SKR V1.3 32bit controller board.
+## This is a configuration of Marlin, based on [dotbob's work](https://github.com/dot-bob/Marlin-Duplicator-6), for a stock Wanhao Duplicator 6 running a BTT SKR V1.3 32bit controller board.
 
 # Marlin 3D Printer Firmware for the Duplicator 6 autobuild edition
 
