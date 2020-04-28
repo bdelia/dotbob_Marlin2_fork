@@ -1706,7 +1706,7 @@
 // This option overrides the default number of encoder pulses needed to
 // produce one step. Should be increased for high-resolution encoders.
 //
-#define ENCODER_PULSES_PER_STEP 2
+#define ENCODER_PULSES_PER_STEP 4
 
 //
 // Use this option to override the number of step signals required to
@@ -1923,7 +1923,7 @@
 // RepRapDiscount FULL GRAPHIC Smart Controller
 // http://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller
 //
-//#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
+#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
 
 //
 // ReprapWorld Graphical LCD
@@ -2051,8 +2051,8 @@
 //
 // TinyBoy2 128x64 OLED / Encoder Panel
 //
-#define OLED_PANEL_TINYBOY2
-#define LCD_RESET_PIN 5
+//#define OLED_PANEL_TINYBOY2
+//#define LCD_RESET_PIN 5
 
 //
 // MKS OLED 1.3" 128 × 64 FULL GRAPHICS CONTROLLER
